@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/PortRelay.Client/nbproject/private/
+/RelayClient/nbproject/private/
+/RelayServer/nbproject/private/
